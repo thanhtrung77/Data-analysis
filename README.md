@@ -12,3 +12,6 @@
 
 ## 4. Ecommerce Analysis using Linear Regression 
 - **Description:** This project used linear regression to provide insights into an ecommerce company's decision of whether to focus on their mobile app or website. I completed this project as part of an online data science course. The data and company are fictional.
+
+## 5. Classification Logs (Python)  
+- **Description:** This project implements a hybrid log classification system, combining three complementary approaches to handle varying levels of complexity in log patterns. The classification methods ensure flexibility and effectiveness in processing predictable, complex, and poorly-labeled data patterns.
