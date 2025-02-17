@@ -1,4 +1,5 @@
-# Project List  
+# Data Analytics Project List  
+- These are data analysis projects that I've worked on using Python, SQL and excel, utilizing visualization and various statistical analysis techniques to pull insights from data sets. Projects are ordered by most recently added.
 
 ## 1. AB Testing Retention Rate for Mobile Games Company (Python)  
 - **Description:** This project utilized a dataset from an A/B test for a mobile game to determine whether changing a game element to a different level improved user retention. I completed this project with guidance from DataCamp.  
